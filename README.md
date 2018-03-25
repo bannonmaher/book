@@ -1,2 +1,2 @@
-# book
-Text of the book Inventions by Jonathan Bannon Maher, with the exception of the patents which are in other repositories.
+# 书
+Jonathan Bannon Maher发明的书的文本，除了在其他存储库中的专利之外。
